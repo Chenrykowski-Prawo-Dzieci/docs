@@ -1,6 +1,6 @@
 ---
 title: Uploading a new license to GitHub Enterprise Server
-intro: 'You can upload your license file for {% data variables.product.prodname_enterprise %} to {% data variables.product.product_location_enterprise %} to validate your application.'
+intro: 'You can up 704598load your license file for {% data variables.product.prodname_enterprise %} to {% data variables.product.product_location_enterprise %} to validate your application.'
 versions:
   ghes: '*'
 type: how_to
